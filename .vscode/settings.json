@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "lib.h": "c",
+        "fcntl.h": "c",
+        "wait.h": "c",
+        "stdio.h": "c",
+        "cd.h": "c",
+        "echo.h": "c",
+        "prompt.h": "c",
+        "pwd.h": "c",
+        "signal.h": "c"
+    }
+}
